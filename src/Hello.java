@@ -4,6 +4,6 @@ public class Hello {
         System.out.println("Hello, my name is Drew.");
         System.out.println("Hello Drew, my name is Travis.");
         System.out.println("What's up man?.");
-        System.out.println("Just messing with git in intellij.");
+        System.out.println("Just messing with git in intellij man.");
     }
 }
